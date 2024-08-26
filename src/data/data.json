@@ -1,0 +1,185 @@
+{
+  "Header": {
+    "title": "Building LEGACY",
+    "paragraph": "Expert manpower solutions for a stronger workforce. Transforming businesses with the right talent."
+  },
+  "About": {
+    "paragraph": "We are dedicated to providing top-notch consulting services tailored to your business needs. Our team combines industry expertise with innovative solutions to drive your success. With a focus on quality and client satisfaction, we strive to exceed your expectations and achieve outstanding results.",
+    "Why": [
+      "Experienced Team",
+      "Client-Centric",
+      "Innovative Solutions",
+      "Quality Assurance"
+    ],
+    "Why2": [
+      "Strategic Insight",
+      "Results-Driven",
+      "Flexible Services",
+      "Proven Track Record"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Talent Acquisition & Recruitment",
+      "text": "Identify and recruit top talent to meet your business needs, leveraging local expertise and networks."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Market Research & Analysis",
+      "text": "Conduct in-depth research and analysis to understand market dynamics and drive strategic decision-making."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Business Strategy Development",
+      "text": "Develop innovative strategies tailored to the local business environment to enhance growth and competitiveness."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Human Resource Management",
+      "text": "Optimize your HR practices with local insights to effectively manage and support your workforce."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Training & Development",
+      "text": "Provide targeted training programs to develop your team's skills and capabilities, ensuring they meet business demands."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Compliance & Advisory",
+      "text": "Navigate the regulatory landscape with expert advice and ensure your business complies with all local laws and regulations."
+    }
+    
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Talent Matters",
+      "text": "Invest in the right talent to unlock your business potential. Let expertise guide your manpower decisions."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Innovative Strategies",
+      "text": "Delivering forward-thinking strategies to solve complex business challenges and drive growth."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Experts Solutions",
+      "text": "Providing expert advice and innovative solutions to drive your business forward."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Magic of Innovation",
+      "text": "Harness creative solutions to transform your business. With expert execution, we make the impossible possible."
+    }
+  ]
+}
